@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Create a Chrome Extension with React and Webpack",
-  "description": "Demo Chrome Extension that uses React and Webpack",
+  "name": "BookmarkX",
+  "description": "Manage your X bookmarks with ease",
   "version": "1.0.0",
   "action": {
     "default_popup": "index.html"
